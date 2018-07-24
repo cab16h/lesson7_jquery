@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(August 3, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Christian Burell)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this project you get a brownie recipe and it has the ingredients in one area and instructions in another.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://cab16h.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to do a hover when hovering over a certain topic.)
+2. (I learned how to make a brownie and the ingredients needed.)
+3. (I also learned how to add colors to the ingredients and instructions with a different color when you hover over them.)
 
